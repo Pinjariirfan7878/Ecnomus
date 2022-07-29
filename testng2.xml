@@ -1,0 +1,8 @@
+<suite name="Suite">
+  <test  name="Test">
+    <classes>
+      <class name="Annotation.Annotation2"/>
+      <class name="Annotation.AnnotationRun"/>
+    </classes>
+  </test> 
+</suite> 

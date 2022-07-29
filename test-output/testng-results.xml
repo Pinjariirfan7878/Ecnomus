@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-28T12:49:56 IST" name="Default suite" finished-at="2022-07-28T12:49:56 IST" duration-ms="40">
+    <groups>
+    </groups>
+    <test started-at="2022-07-28T12:49:56 IST" name="Default test" finished-at="2022-07-28T12:49:56 IST" duration-ms="40">
+      <class name="pass_fail_screenshot.Tctest1">
+        <test-method signature="jj()[pri:0, instance:pass_fail_screenshot.Tctest1@5e600dd5]" started-at="2022-07-28T12:49:56 IST" name="jj" finished-at="2022-07-28T12:49:56 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jj -->
+      </class> <!-- pass_fail_screenshot.Tctest1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

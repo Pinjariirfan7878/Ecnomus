@@ -1,0 +1,14 @@
+
+<suite name="Suite">
+<groups>
+<run>
+<include name="regression"></include>
+</run></groups>
+<parameter name="UsernName" value="Irfan" ></parameter>
+  <test  name="Regression Test">
+    <classes>
+      <class name="Group_Parameter.Group"/>
+      <class name="Group_Parameter.Group2"/>
+    </classes>
+  </test> 
+</suite> 

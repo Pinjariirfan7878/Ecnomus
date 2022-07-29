@@ -1,0 +1,15 @@
+
+<suite name="Suite">
+<groups>
+<run>
+<include name="smoke"></include>
+</run>
+</groups>
+<parameter name="UserName" value="Irfan" ></parameter>
+  <test  name="Test">
+    <classes>
+      <class name="Group_Parameter.Group"/>
+      <class name="Group_Parameter.Group2"/>
+    </classes>
+  </test>
+</suite> 
